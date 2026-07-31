@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Mindset Archive Studio</string>
+    <string name="title_activity_main">Mindset Archive Studio</string>
+    <string name="package_name">com.densonhaimbangu.mindsetarchive</string>
+    <string name="custom_url_scheme">com.densonhaimbangu.mindsetarchive</string>
+</resources>
